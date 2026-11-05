@@ -1,0 +1,8 @@
+name	status	ctx	ngl	short_tg	long_prompt_tokens	long_pp	long_tg	vram_used_mb	mtp_accept
+base_131k_q4	OK	131072	99	24.7	34950	412	17.2	16347	-
+mtp_82k	OK	81920	99	45.8	34950	366	30.1	16356	0.75
+mtp_ngl58_131k	OK	131072	58	23.0	34950	363	12.5	16340	0.78
+ngl57_196k	OK	196608	57	11.3	34950	373	8.3	16125	-
+kvram_262k_ngl99	OK	262144	99	11.2	34950	372	7.8	14851	-
+ngl52_262k	OK	262144	52	8.8	34950	355	6.5	16350	-
+mtp_ngl53_196k	FAIL_START	196608	53						
